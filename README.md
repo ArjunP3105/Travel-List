@@ -1,5 +1,5 @@
 # 🧳 Travel List Project
-## A fully responsive travel packing list app built with React, designed to simplify trip preparation. This project demonstrates key React concepts and delivers a user-friendly experience for organizing travel essentials.
+### A fully responsive travel packing list app built with React, designed to simplify trip preparation. This project demonstrates key React concepts and delivers a user-friendly experience for organizing travel essentials.
 
 ## ✨ Features
 Add Items: Users can add items to the list, specifying the item name and quantity.
